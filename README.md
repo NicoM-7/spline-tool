@@ -19,9 +19,7 @@ An interactive OpenGL-based application for creating and editing **cubic Bézier
 
 Follow these steps to configure your environment on Windows using MSYS2:
 
-1. **Install MSYS2**  
-   https://www.msys2.org/  
-   Make sure to install it in `C:\msys64`
+1. [**Install MSYS2**](https://www.msys2.org/) and install it in `C:\msys64`
 
 2. **Open the MSYS2 MINGW64 terminal**, then run:
 
